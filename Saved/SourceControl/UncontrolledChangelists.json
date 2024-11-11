@@ -44,6 +44,8 @@
 				"D:/gry_unreal/WildRider_Git/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/gry_unreal/WildRider_Git/Content/ThirdPerson/Input/Actions/IA_Sprint.uasset",
 				"D:/gry_unreal/WildRider_Git/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"D:/gry_unreal/WildRider_Git/Content/Characters/Mannequins/Animations/Manny/MM_Sprint.uasset",
+				"D:/gry_unreal/WildRider_Git/Content/Characters/WildRiderCharacter/Animations/Locomotion/LocomotionBlendSpace.uasset",
 				"D:/gry_unreal/WildRider/Content/Blueprints/BPL_Assasinations.uasset",
 				"D:/gry_unreal/WildRider/Content/Blueprints/BP_Assasinations.uasset",
 				"D:/gry_unreal/WildRider/Content/Characters/WildRiderCharacter/Animations/Walk_Stop.uasset",
